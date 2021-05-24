@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7246ffb1-86c3-49e6-9375-c4e0669635f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testNG" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Konstantin\IdeaProjects\skillfactory\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mES9ddfQ9Vkb1n1gnCFgG6H5mz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AppiumTest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.JunitTest">
+    <configuration name="CalcTest.testCalculatorAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="skillfactory" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalcTest" />
+      <option name="METHOD_NAME" value="testCalculatorAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="skillfactory" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="skillfactory" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="skillfactory" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="skillfactory" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNG" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JunitTest" />
+        <item itemvalue="JUnit.JunitTest.test" />
+        <item itemvalue="JUnit.CalcTest.testCalculatorAdd" />
+        <item itemvalue="TestNG.TestNG" />
+        <item itemvalue="TestNG.TestNG.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7246ffb1-86c3-49e6-9375-c4e0669635f7" name="Default Changelist" comment="" />
+      <created>1609057106524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609057106524</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1612355047342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612355047342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="junit">
+      <created>1613297693181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613297693181</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testNG">
+      <created>1613304635700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613304635700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="junit" />
+    <MESSAGE value="testNG" />
+    <option name="LAST_COMMIT_MESSAGE" value="testNG" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1617718860446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1617718860446" />
+    <state x="92" y="96" width="1736" height="889" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1610126636683">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="96" width="1736" height="889" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1610126636683" />
+    <state x="659" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1617718444955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617718444955" />
+    <state x="879" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1612698622092" />
+    <state x="509" y="123" key="CommitChangelistDialog2" timestamp="1613304635328">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="509" y="123" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1613304635328" />
+    <state x="679" y="118" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1612355047009" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1613307985004">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1613307985004" />
+    <state width="1877" height="399" key="GridCell.Tab.0.bottom" timestamp="1617718610221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="399" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617718610221" />
+    <state width="2003" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613307986489" />
+    <state width="2517" height="210" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1613472076952" />
+    <state width="2003" height="362" key="GridCell.Tab.0.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1613297077723" />
+    <state width="1877" height="399" key="GridCell.Tab.0.center" timestamp="1617718610221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="399" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617718610221" />
+    <state width="2003" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613307986489" />
+    <state width="2517" height="210" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1613472076952" />
+    <state width="2003" height="362" key="GridCell.Tab.0.center/0.0.2560.1080@0.0.2560.1080" timestamp="1613297077722" />
+    <state width="1877" height="399" key="GridCell.Tab.0.left" timestamp="1617718610221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="399" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617718610221" />
+    <state width="2003" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613307986489" />
+    <state width="2517" height="210" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1613472076952" />
+    <state width="2003" height="362" key="GridCell.Tab.0.left/0.0.2560.1080@0.0.2560.1080" timestamp="1613297077722" />
+    <state width="1877" height="399" key="GridCell.Tab.0.right" timestamp="1617718610221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="399" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617718610221" />
+    <state width="2003" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613307986489" />
+    <state width="2517" height="210" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1613472076952" />
+    <state width="2003" height="362" key="GridCell.Tab.0.right/0.0.2560.1080@0.0.2560.1080" timestamp="1613297077722" />
+    <state width="2003" height="363" key="GridCell.Tab.1.bottom" timestamp="1613307986489">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2003" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1613307986489" />
+    <state width="2003" height="363" key="GridCell.Tab.1.bottom/0.0.2560.1080@0.0.2560.1080" timestamp="1613297075089" />
+    <state width="2003" height="363" key="GridCell.Tab.1.center" timestamp="1613307986489">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2003" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1613307986489" />
+    <state width="2003" height="363" key="GridCell.Tab.1.center/0.0.2560.1080@0.0.2560.1080" timestamp="1613297075089" />
+    <state width="2003" height="363" key="GridCell.Tab.1.left" timestamp="1613307986489">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2003" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1613307986489" />
+    <state width="2003" height="363" key="GridCell.Tab.1.left/0.0.2560.1080@0.0.2560.1080" timestamp="1613297075089" />
+    <state width="2003" height="363" key="GridCell.Tab.1.right" timestamp="1613307986489">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2003" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1613307986489" />
+    <state width="2003" height="363" key="GridCell.Tab.1.right/0.0.2560.1080@0.0.2560.1080" timestamp="1613297075089" />
+    <state x="462" y="267" key="Vcs.Push.Dialog.v2" timestamp="1613304637235">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="462" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1613304637234" />
+    <state x="616" y="257" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1612355049563" />
+  </component>
+</project>
